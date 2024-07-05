@@ -15,3 +15,11 @@ Responsive Design: Ensures a consistent experience across different devices and 
 ## Inspiration
 
 The idea for this project came from various YouTube tutorials that explored creating 3D effects with CSS. These tutorials provided the foundation, which I then adapted and expanded upon to develop this interactive landing page.
+
+## Usage
+
+You can use the code and adapt it to create your own interactive landing pages or incorporate similar effects into your projects.
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are welcome!
